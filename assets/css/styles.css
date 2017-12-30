@@ -264,7 +264,7 @@ input[type=text] {
 	height: 35px;
 }
 
-input[type=submit] {
+.learnMore button {
 	background-color:#5900b3;
 	border-color: #5900b3;
 	border-radius: 4px;
